@@ -3,6 +3,12 @@
 [![Package Version](https://img.shields.io/hexpm/v/sha1)](https://hex.pm/packages/sha1)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/sha1/)
 
+SHA-1 for Gleam, supporting both Erlang and JavaScript
+
+## Installation
+
+To add the library, simply execute the following command:
+
 ```sh
 gleam add sha1
 ```

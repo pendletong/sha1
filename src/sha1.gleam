@@ -1,4 +1,4 @@
-/// Computes the hash of the given input using the specified `HashAlgorithm`.
+/// Computes the sha-1 hash of the given input
 @external(erlang, "sha1_ffi", "hash")
 @external(javascript, "./sha1_ffi.mjs", "hash")
 pub fn hash(input: BitArray) -> BitArray
